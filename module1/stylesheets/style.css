@@ -21,7 +21,6 @@
 .color3 {
     background: green;
     animation: three 6s infinite;
-    
 }
 
 @keyframes one {
