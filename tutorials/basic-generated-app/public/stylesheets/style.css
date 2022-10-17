@@ -37,3 +37,9 @@ footer img {
 footer h1{
     color: white;
 }
+
+.quent {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
